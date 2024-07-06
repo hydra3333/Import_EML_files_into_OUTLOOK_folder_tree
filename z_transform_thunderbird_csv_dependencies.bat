@@ -55,9 +55,9 @@ REM CD into the target path and do the work
 cd "!vs_path!"
 cd
 
-REM "!py_exe!" -m pip install pip --target=%vs_path% --no-cache-dir --upgrade --check-build-dependencies --upgrade-strategy eager --verbose
+"!py_exe!" -m pip install pip --target=%vs_path% --no-cache-dir --upgrade --check-build-dependencies --upgrade-strategy eager --verbose
 
-"!py_exe!" -m pip uninstall pywin32 --no-cache-dir --verbose
+REM "!py_exe!" -m pip uninstall pywin32 --no-cache-dir --verbose
 
 pause
 goto :eof
