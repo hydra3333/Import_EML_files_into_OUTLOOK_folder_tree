@@ -18,6 +18,6 @@ _It's the only thing I have ever seen which does this with a folder tree of .eml
 5. Re-check you've specified the correct folder names in the VBS code
 6. Start the Immediate window by pressing control G
 7. Start the import by clicking into the Immediate Window by typing the word `menu` and pressing Enter
-8. It may take a few hours to import 5,000 or so .eml files ... the Immediate window only records the last 200 print statements, so look at it every 15 mins or so
+8. It may take a few hours to import 5,000 or so .eml files ... the Immediate window only records the last 200 print statements, so perhaps look at it every 15 mins or so
 
 Good Luck
