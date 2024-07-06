@@ -12,7 +12,7 @@ The .eml email files on disk are moved to a "DONE" folder tree on disk on the fl
 _It's the only thing I have ever seen which does this with a folder tree of .eml files, replicating the folder tree names into a .pst file and saving the .eml emails to their correct places in that folder tree._
 
 
-1. **ALWAYS ALWAYS ALWAYS** first backup your .eml files and **ALL** of you Outlook data; this should never go wrong but one never knows !
+1. **ALWAYS ALWAYS ALWAYS** first backup your .eml files and **ALL** of your Outlook data; this should never go wrong but one never knows !
 2. Edit the .vba to edit/add your folder names and disk/tree root folder names
 3. In outlook, ensure your new "destinatioon" .PST is opened and is named as you newly specified in the vba macro
 4. Go into Outlook developer window (google how, if you need to) and add a new module and paste in your updated .vba code and save it
