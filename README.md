@@ -1,4 +1,5 @@
-**NOTE: Outlook has no menu option to import .eml files, nor any library function to open a .eml file.    
+**PRELIMINARY NOTE:    
+Outlook has no menu option to import .eml files, nor any library function to open a .eml file.    
 Who knows why, answer could be Microsoft could not be bothered.    
 That's why the roundabout method in this vba is used, there seems to be no other known way ... nothing on the web that I could find.**
 
