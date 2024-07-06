@@ -3,7 +3,7 @@ into an Outlook folder tree in a nominated .PST having folder names replicated f
 
 The .eml email files on disk are moved to a "DONE" folder tree on disk on the fly, making it restartable should something go astray.
 
-It's the only thing I have ever seen which does this with a folder tree of .eml files.
+It's the only thing I have ever seen which does this with a folder tree of .eml files, replicating the folder tree names into a .pst file and saving the .eml emails to their correct places in that folder tree.
 
 1. Edit the .vba to edit/add your folder names and disk/tree root folder names
 2. In outlook, ensure your new "destinatioon" .PST is opened and is named as you newly specified in the vba macro
